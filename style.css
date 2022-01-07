@@ -5,7 +5,7 @@ body{
 h1{
     font-size: 60px;
     padding-left: 10px;
-    line-height: 30px;
+    line-height: 40px;
 }    
 .color{
     color: rgb(7, 70, 70);
@@ -17,6 +17,7 @@ h1{
 }    
 section{
     display: flex;
+    margin-bottom: 100px;
 }    
 .width img{
     width: 60%;
@@ -38,6 +39,78 @@ section{
     color: white;
     font-weight: 700;
 }
+.mission img{
+    width: 120%;
+    padding-left: 20%;
+}
+.develop{
+    padding-left:20%;
+}
+.submit{
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-size: 20%;
+    background-position: left;
+    margin-bottom: 80px;
+    margin-top: 80px;
+}
+.mission-first img{
+     width: 50%;
+     height: auto;
+     padding-left:30%; 
+}
+.artical{
+    background-image: url(images//shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-size: 20%;
+   background-position:right bottom;
+}
+.community h1{
+    line-height: normal;
+    padding-left: 30px;
+    margin: auto;        
+}
+.community p{
+    padding-left: 30px;
+}
+.clon{
+    text-align: center; 
+    margin-bottom: 60px; 
+}
+.text{
+   width: 100%; 
+   display: flex;
+}
+.card1{
+    flex: 1;
+    background-color: rgb(230, 187, 230);
+    padding: 70px;
+    box-sizing: border-box ;
+    margin: 10px;
+    border-radius: 20px;
+}
+.card2{
+    flex: 1;
+    background-color: rgb(178, 211, 216);
+    padding: 70px;
+    margin: 10px;
+    border-radius: 20px;
+}
+.card3{
+    flex: 1;
+    background-color: rgb(214, 168, 168);
+    padding: 70px;
+    margin:10px;
+    border-radius: 20px;
+}
+.clon-A{
+    width: 100%;
+    text-align: center;
+    display: block;
+}
+
+
+
 
 
 
