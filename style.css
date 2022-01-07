@@ -129,4 +129,11 @@ section{
     background-position: top left;
     margin-top: 70px;
 }
-
+footer {
+    text-align: center;
+}
+.div2{
+    background-color: black;
+    padding: 3%;
+    color: white;
+}
