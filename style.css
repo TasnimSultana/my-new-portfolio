@@ -3,7 +3,7 @@ body{
     margin: 5%;
 }
 h1{
-    font-size: 60px;
+    font-size: 40px;
     padding-left: 10px;
     line-height: 40px;
 }    
@@ -40,7 +40,7 @@ section{
     font-weight: 700;
 }
 .mission img{
-    width: 120%;
+    width: 130%;
     padding-left: 20%;
 }
 .develop{
@@ -108,9 +108,25 @@ section{
     text-align: center;
     display: block;
 }
-
-
-
-
-
+.city{
+    color: rgb(13, 57, 138);
+}
+.beauty {
+    width: 300%;
+    height: auto;
+    padding-left: 80%;
+}
+.test1{
+    color: rgb(172, 228, 60);
+}
+.beauty2{
+    padding-left: 40%;
+}
+.story{
+    background-image: url(images/shapes//shape-5.png);
+    background-repeat: no-repeat;
+    background-size: 20%;
+    background-position: top left;
+    margin-top: 70px;
+}
 
